@@ -1,0 +1,22 @@
+# Entornos virtuales
+venv/
+.env/
+.venv/
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Archivos de IDE
+.vscode/
+.idea/
+
+# Archivos del sistema
+.DS_Store
+Thumbs.db
+
+# Carpeta de dependencias (si usaras node)
+node_modules/
+

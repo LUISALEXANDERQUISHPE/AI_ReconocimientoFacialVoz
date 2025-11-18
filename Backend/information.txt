@@ -1,0 +1,2 @@
+aplastar q para cerra la camara 
+Correr el py con python 01_test_camera.py
