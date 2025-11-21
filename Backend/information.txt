@@ -1,2 +1,6 @@
-aplastar q para cerra la camara 
+aplastar "q" para cerra la camara 
 Correr el py con python 01_test_camera.py
+depues de entrenar el modelo  vas a la base de datos con el registro de la persona y los datos biometricos y guardas ahi con el nombre 
+mediapip
+tu modelo propiamente 
+quitar el modo espejo de la camara

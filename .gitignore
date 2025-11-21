@@ -20,3 +20,10 @@ Thumbs.db
 # Carpeta de dependencias (si usaras node)
 node_modules/
 
+# Entornos y artefactos del proyecto backend
+Backend/dataset/
+Backend/resources/
+Backend/venv310/
+Backend/*.h5
+Backend/*.npy
+

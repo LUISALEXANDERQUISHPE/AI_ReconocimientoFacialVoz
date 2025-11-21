@@ -1,0 +1,606 @@
+Dataset Capture Metadata
+Person: Christian Hurtado
+Capture Date: 2025-11-19 17:06:24
+Total Frames Captured: 981
+Images Saved: 100
+
+File: Christian Hurtado_20251119_170624_000.jpg
+  Timestamp: 4.27s
+  Confidence: 0.800
+  Blur Score: 8.60
+  Face Size: (np.int32(325), np.int32(325))
+
+File: Christian Hurtado_20251119_170624_001.jpg
+  Timestamp: 4.62s
+  Confidence: 0.800
+  Blur Score: 16.21
+  Face Size: (np.int32(307), np.int32(307))
+
+File: Christian Hurtado_20251119_170624_002.jpg
+  Timestamp: 4.96s
+  Confidence: 0.800
+  Blur Score: 38.41
+  Face Size: (np.int32(311), np.int32(311))
+
+File: Christian Hurtado_20251119_170624_003.jpg
+  Timestamp: 5.30s
+  Confidence: 0.800
+  Blur Score: 72.36
+  Face Size: (np.int32(317), np.int32(317))
+
+File: Christian Hurtado_20251119_170624_004.jpg
+  Timestamp: 5.63s
+  Confidence: 0.800
+  Blur Score: 50.89
+  Face Size: (np.int32(318), np.int32(318))
+
+File: Christian Hurtado_20251119_170624_005.jpg
+  Timestamp: 5.95s
+  Confidence: 0.800
+  Blur Score: 24.18
+  Face Size: (np.int32(317), np.int32(317))
+
+File: Christian Hurtado_20251119_170624_006.jpg
+  Timestamp: 6.27s
+  Confidence: 0.800
+  Blur Score: 44.05
+  Face Size: (np.int32(324), np.int32(324))
+
+File: Christian Hurtado_20251119_170624_007.jpg
+  Timestamp: 6.61s
+  Confidence: 0.800
+  Blur Score: 35.44
+  Face Size: (np.int32(348), np.int32(348))
+
+File: Christian Hurtado_20251119_170624_008.jpg
+  Timestamp: 6.95s
+  Confidence: 0.800
+  Blur Score: 31.29
+  Face Size: (np.int32(322), np.int32(322))
+
+File: Christian Hurtado_20251119_170624_009.jpg
+  Timestamp: 7.28s
+  Confidence: 0.800
+  Blur Score: 79.20
+  Face Size: (np.int32(299), np.int32(299))
+
+File: Christian Hurtado_20251119_170624_010.jpg
+  Timestamp: 7.62s
+  Confidence: 0.800
+  Blur Score: 123.34
+  Face Size: (np.int32(296), np.int32(296))
+
+File: Christian Hurtado_20251119_170624_011.jpg
+  Timestamp: 7.89s
+  Confidence: 0.800
+  Blur Score: 100.63
+  Face Size: (np.int32(288), np.int32(288))
+
+File: Christian Hurtado_20251119_170624_012.jpg
+  Timestamp: 8.22s
+  Confidence: 0.800
+  Blur Score: 97.41
+  Face Size: (np.int32(285), np.int32(285))
+
+File: Christian Hurtado_20251119_170624_013.jpg
+  Timestamp: 8.56s
+  Confidence: 0.800
+  Blur Score: 26.99
+  Face Size: (np.int32(287), np.int32(287))
+
+File: Christian Hurtado_20251119_170624_014.jpg
+  Timestamp: 8.89s
+  Confidence: 0.800
+  Blur Score: 40.62
+  Face Size: (np.int32(304), np.int32(304))
+
+File: Christian Hurtado_20251119_170624_015.jpg
+  Timestamp: 9.21s
+  Confidence: 0.800
+  Blur Score: 17.91
+  Face Size: (np.int32(315), np.int32(315))
+
+File: Christian Hurtado_20251119_170624_016.jpg
+  Timestamp: 9.56s
+  Confidence: 0.800
+  Blur Score: 118.57
+  Face Size: (np.int32(297), np.int32(297))
+
+File: Christian Hurtado_20251119_170624_017.jpg
+  Timestamp: 9.87s
+  Confidence: 0.800
+  Blur Score: 47.29
+  Face Size: (np.int32(288), np.int32(288))
+
+File: Christian Hurtado_20251119_170624_018.jpg
+  Timestamp: 10.21s
+  Confidence: 0.800
+  Blur Score: 76.84
+  Face Size: (np.int32(292), np.int32(292))
+
+File: Christian Hurtado_20251119_170624_019.jpg
+  Timestamp: 10.54s
+  Confidence: 0.800
+  Blur Score: 134.63
+  Face Size: (np.int32(281), np.int32(281))
+
+File: Christian Hurtado_20251119_170624_020.jpg
+  Timestamp: 10.87s
+  Confidence: 0.800
+  Blur Score: 88.10
+  Face Size: (np.int32(286), np.int32(286))
+
+File: Christian Hurtado_20251119_170624_021.jpg
+  Timestamp: 11.20s
+  Confidence: 0.800
+  Blur Score: 151.89
+  Face Size: (np.int32(286), np.int32(286))
+
+File: Christian Hurtado_20251119_170624_022.jpg
+  Timestamp: 11.49s
+  Confidence: 0.800
+  Blur Score: 134.09
+  Face Size: (np.int32(288), np.int32(288))
+
+File: Christian Hurtado_20251119_170624_023.jpg
+  Timestamp: 11.83s
+  Confidence: 0.800
+  Blur Score: 69.11
+  Face Size: (np.int32(289), np.int32(289))
+
+File: Christian Hurtado_20251119_170624_024.jpg
+  Timestamp: 12.16s
+  Confidence: 0.800
+  Blur Score: 152.71
+  Face Size: (np.int32(296), np.int32(296))
+
+File: Christian Hurtado_20251119_170624_025.jpg
+  Timestamp: 12.48s
+  Confidence: 0.800
+  Blur Score: 54.55
+  Face Size: (np.int32(291), np.int32(291))
+
+File: Christian Hurtado_20251119_170624_026.jpg
+  Timestamp: 12.82s
+  Confidence: 0.800
+  Blur Score: 98.52
+  Face Size: (np.int32(290), np.int32(290))
+
+File: Christian Hurtado_20251119_170624_027.jpg
+  Timestamp: 13.13s
+  Confidence: 0.800
+  Blur Score: 60.80
+  Face Size: (np.int32(298), np.int32(298))
+
+File: Christian Hurtado_20251119_170624_028.jpg
+  Timestamp: 13.47s
+  Confidence: 0.800
+  Blur Score: 151.45
+  Face Size: (np.int32(283), np.int32(283))
+
+File: Christian Hurtado_20251119_170624_029.jpg
+  Timestamp: 13.81s
+  Confidence: 0.800
+  Blur Score: 95.96
+  Face Size: (np.int32(288), np.int32(288))
+
+File: Christian Hurtado_20251119_170624_030.jpg
+  Timestamp: 14.86s
+  Confidence: 0.800
+  Blur Score: 101.10
+  Face Size: (np.int32(304), np.int32(304))
+
+File: Christian Hurtado_20251119_170624_031.jpg
+  Timestamp: 15.20s
+  Confidence: 0.800
+  Blur Score: 131.25
+  Face Size: (np.int32(282), np.int32(282))
+
+File: Christian Hurtado_20251119_170624_032.jpg
+  Timestamp: 15.49s
+  Confidence: 0.800
+  Blur Score: 131.14
+  Face Size: (np.int32(279), np.int32(279))
+
+File: Christian Hurtado_20251119_170624_033.jpg
+  Timestamp: 15.81s
+  Confidence: 0.800
+  Blur Score: 84.12
+  Face Size: (np.int32(275), np.int32(275))
+
+File: Christian Hurtado_20251119_170624_034.jpg
+  Timestamp: 16.14s
+  Confidence: 0.800
+  Blur Score: 42.82
+  Face Size: (np.int32(205), np.int32(205))
+
+File: Christian Hurtado_20251119_170624_035.jpg
+  Timestamp: 17.09s
+  Confidence: 0.800
+  Blur Score: 95.28
+  Face Size: (np.int32(284), np.int32(284))
+
+File: Christian Hurtado_20251119_170624_036.jpg
+  Timestamp: 17.41s
+  Confidence: 0.800
+  Blur Score: 84.58
+  Face Size: (np.int32(241), np.int32(241))
+
+File: Christian Hurtado_20251119_170624_037.jpg
+  Timestamp: 17.73s
+  Confidence: 0.800
+  Blur Score: 88.09
+  Face Size: (np.int32(254), np.int32(254))
+
+File: Christian Hurtado_20251119_170624_038.jpg
+  Timestamp: 18.06s
+  Confidence: 0.800
+  Blur Score: 111.62
+  Face Size: (np.int32(274), np.int32(274))
+
+File: Christian Hurtado_20251119_170624_039.jpg
+  Timestamp: 18.40s
+  Confidence: 0.800
+  Blur Score: 113.02
+  Face Size: (np.int32(269), np.int32(269))
+
+File: Christian Hurtado_20251119_170624_040.jpg
+  Timestamp: 18.75s
+  Confidence: 0.800
+  Blur Score: 98.89
+  Face Size: (np.int32(285), np.int32(285))
+
+File: Christian Hurtado_20251119_170624_041.jpg
+  Timestamp: 19.05s
+  Confidence: 0.800
+  Blur Score: 94.33
+  Face Size: (np.int32(297), np.int32(297))
+
+File: Christian Hurtado_20251119_170624_042.jpg
+  Timestamp: 19.93s
+  Confidence: 0.800
+  Blur Score: 105.38
+  Face Size: (np.int32(278), np.int32(278))
+
+File: Christian Hurtado_20251119_170624_043.jpg
+  Timestamp: 20.19s
+  Confidence: 0.800
+  Blur Score: 122.67
+  Face Size: (np.int32(282), np.int32(282))
+
+File: Christian Hurtado_20251119_170624_044.jpg
+  Timestamp: 20.53s
+  Confidence: 0.800
+  Blur Score: 136.33
+  Face Size: (np.int32(288), np.int32(288))
+
+File: Christian Hurtado_20251119_170624_045.jpg
+  Timestamp: 20.86s
+  Confidence: 0.800
+  Blur Score: 116.68
+  Face Size: (np.int32(289), np.int32(289))
+
+File: Christian Hurtado_20251119_170624_046.jpg
+  Timestamp: 21.21s
+  Confidence: 0.800
+  Blur Score: 70.03
+  Face Size: (np.int32(260), np.int32(260))
+
+File: Christian Hurtado_20251119_170624_047.jpg
+  Timestamp: 21.54s
+  Confidence: 0.800
+  Blur Score: 54.74
+  Face Size: (np.int32(221), np.int32(221))
+
+File: Christian Hurtado_20251119_170624_048.jpg
+  Timestamp: 22.13s
+  Confidence: 0.800
+  Blur Score: 63.81
+  Face Size: (np.int32(265), np.int32(265))
+
+File: Christian Hurtado_20251119_170624_049.jpg
+  Timestamp: 22.48s
+  Confidence: 0.800
+  Blur Score: 106.86
+  Face Size: (np.int32(288), np.int32(288))
+
+File: Christian Hurtado_20251119_170624_050.jpg
+  Timestamp: 22.80s
+  Confidence: 0.800
+  Blur Score: 104.45
+  Face Size: (np.int32(278), np.int32(278))
+
+File: Christian Hurtado_20251119_170624_051.jpg
+  Timestamp: 23.14s
+  Confidence: 0.800
+  Blur Score: 91.73
+  Face Size: (np.int32(264), np.int32(264))
+
+File: Christian Hurtado_20251119_170624_052.jpg
+  Timestamp: 23.46s
+  Confidence: 0.800
+  Blur Score: 141.01
+  Face Size: (np.int32(268), np.int32(268))
+
+File: Christian Hurtado_20251119_170624_053.jpg
+  Timestamp: 23.74s
+  Confidence: 0.800
+  Blur Score: 111.75
+  Face Size: (np.int32(264), np.int32(264))
+
+File: Christian Hurtado_20251119_170624_054.jpg
+  Timestamp: 24.10s
+  Confidence: 0.800
+  Blur Score: 96.42
+  Face Size: (np.int32(278), np.int32(278))
+
+File: Christian Hurtado_20251119_170624_055.jpg
+  Timestamp: 24.46s
+  Confidence: 0.800
+  Blur Score: 98.67
+  Face Size: (np.int32(271), np.int32(271))
+
+File: Christian Hurtado_20251119_170624_056.jpg
+  Timestamp: 24.78s
+  Confidence: 0.800
+  Blur Score: 128.09
+  Face Size: (np.int32(273), np.int32(273))
+
+File: Christian Hurtado_20251119_170624_057.jpg
+  Timestamp: 25.12s
+  Confidence: 0.800
+  Blur Score: 87.73
+  Face Size: (np.int32(272), np.int32(272))
+
+File: Christian Hurtado_20251119_170624_058.jpg
+  Timestamp: 25.39s
+  Confidence: 0.800
+  Blur Score: 91.21
+  Face Size: (np.int32(271), np.int32(271))
+
+File: Christian Hurtado_20251119_170624_059.jpg
+  Timestamp: 25.75s
+  Confidence: 0.800
+  Blur Score: 108.33
+  Face Size: (np.int32(270), np.int32(270))
+
+File: Christian Hurtado_20251119_170624_060.jpg
+  Timestamp: 26.06s
+  Confidence: 0.800
+  Blur Score: 135.27
+  Face Size: (np.int32(271), np.int32(271))
+
+File: Christian Hurtado_20251119_170624_061.jpg
+  Timestamp: 26.40s
+  Confidence: 0.800
+  Blur Score: 112.83
+  Face Size: (np.int32(266), np.int32(266))
+
+File: Christian Hurtado_20251119_170624_062.jpg
+  Timestamp: 26.74s
+  Confidence: 0.800
+  Blur Score: 89.13
+  Face Size: (np.int32(278), np.int32(278))
+
+File: Christian Hurtado_20251119_170624_063.jpg
+  Timestamp: 27.12s
+  Confidence: 0.800
+  Blur Score: 98.91
+  Face Size: (np.int32(278), np.int32(278))
+
+File: Christian Hurtado_20251119_170624_064.jpg
+  Timestamp: 27.41s
+  Confidence: 0.800
+  Blur Score: 93.17
+  Face Size: (np.int32(278), np.int32(278))
+
+File: Christian Hurtado_20251119_170624_065.jpg
+  Timestamp: 27.73s
+  Confidence: 0.800
+  Blur Score: 121.83
+  Face Size: (np.int32(274), np.int32(274))
+
+File: Christian Hurtado_20251119_170624_066.jpg
+  Timestamp: 28.06s
+  Confidence: 0.800
+  Blur Score: 116.51
+  Face Size: (np.int32(279), np.int32(279))
+
+File: Christian Hurtado_20251119_170624_067.jpg
+  Timestamp: 28.51s
+  Confidence: 0.800
+  Blur Score: 110.37
+  Face Size: (np.int32(285), np.int32(285))
+
+File: Christian Hurtado_20251119_170624_068.jpg
+  Timestamp: 28.85s
+  Confidence: 0.800
+  Blur Score: 133.28
+  Face Size: (np.int32(274), np.int32(274))
+
+File: Christian Hurtado_20251119_170624_069.jpg
+  Timestamp: 29.14s
+  Confidence: 0.800
+  Blur Score: 118.15
+  Face Size: (np.int32(268), np.int32(268))
+
+File: Christian Hurtado_20251119_170624_070.jpg
+  Timestamp: 29.46s
+  Confidence: 0.800
+  Blur Score: 64.50
+  Face Size: (np.int32(282), np.int32(282))
+
+File: Christian Hurtado_20251119_170624_071.jpg
+  Timestamp: 29.81s
+  Confidence: 0.800
+  Blur Score: 65.75
+  Face Size: (np.int32(281), np.int32(281))
+
+File: Christian Hurtado_20251119_170624_072.jpg
+  Timestamp: 30.13s
+  Confidence: 0.800
+  Blur Score: 56.13
+  Face Size: (np.int32(278), np.int32(278))
+
+File: Christian Hurtado_20251119_170624_073.jpg
+  Timestamp: 30.46s
+  Confidence: 0.800
+  Blur Score: 97.53
+  Face Size: (np.int32(274), np.int32(274))
+
+File: Christian Hurtado_20251119_170624_074.jpg
+  Timestamp: 30.78s
+  Confidence: 0.800
+  Blur Score: 114.80
+  Face Size: (np.int32(275), np.int32(275))
+
+File: Christian Hurtado_20251119_170624_075.jpg
+  Timestamp: 31.12s
+  Confidence: 0.800
+  Blur Score: 73.76
+  Face Size: (np.int32(281), np.int32(281))
+
+File: Christian Hurtado_20251119_170624_076.jpg
+  Timestamp: 31.46s
+  Confidence: 0.800
+  Blur Score: 107.06
+  Face Size: (np.int32(279), np.int32(279))
+
+File: Christian Hurtado_20251119_170624_077.jpg
+  Timestamp: 31.78s
+  Confidence: 0.800
+  Blur Score: 92.42
+  Face Size: (np.int32(280), np.int32(280))
+
+File: Christian Hurtado_20251119_170624_078.jpg
+  Timestamp: 32.11s
+  Confidence: 0.800
+  Blur Score: 98.52
+  Face Size: (np.int32(277), np.int32(277))
+
+File: Christian Hurtado_20251119_170624_079.jpg
+  Timestamp: 32.40s
+  Confidence: 0.800
+  Blur Score: 89.79
+  Face Size: (np.int32(283), np.int32(283))
+
+File: Christian Hurtado_20251119_170624_080.jpg
+  Timestamp: 32.73s
+  Confidence: 0.800
+  Blur Score: 71.17
+  Face Size: (np.int32(276), np.int32(276))
+
+File: Christian Hurtado_20251119_170624_081.jpg
+  Timestamp: 33.79s
+  Confidence: 0.800
+  Blur Score: 73.49
+  Face Size: (np.int32(277), np.int32(277))
+
+File: Christian Hurtado_20251119_170624_082.jpg
+  Timestamp: 34.13s
+  Confidence: 0.800
+  Blur Score: 92.04
+  Face Size: (np.int32(285), np.int32(285))
+
+File: Christian Hurtado_20251119_170624_083.jpg
+  Timestamp: 34.47s
+  Confidence: 0.800
+  Blur Score: 86.52
+  Face Size: (np.int32(282), np.int32(282))
+
+File: Christian Hurtado_20251119_170624_084.jpg
+  Timestamp: 34.80s
+  Confidence: 0.800
+  Blur Score: 93.18
+  Face Size: (np.int32(287), np.int32(287))
+
+File: Christian Hurtado_20251119_170624_085.jpg
+  Timestamp: 35.10s
+  Confidence: 0.800
+  Blur Score: 98.35
+  Face Size: (np.int32(280), np.int32(280))
+
+File: Christian Hurtado_20251119_170624_086.jpg
+  Timestamp: 35.44s
+  Confidence: 0.800
+  Blur Score: 112.60
+  Face Size: (np.int32(276), np.int32(276))
+
+File: Christian Hurtado_20251119_170624_087.jpg
+  Timestamp: 35.78s
+  Confidence: 0.800
+  Blur Score: 82.57
+  Face Size: (np.int32(279), np.int32(279))
+
+File: Christian Hurtado_20251119_170624_088.jpg
+  Timestamp: 36.11s
+  Confidence: 0.800
+  Blur Score: 112.24
+  Face Size: (np.int32(279), np.int32(279))
+
+File: Christian Hurtado_20251119_170624_089.jpg
+  Timestamp: 36.45s
+  Confidence: 0.800
+  Blur Score: 110.59
+  Face Size: (np.int32(262), np.int32(262))
+
+File: Christian Hurtado_20251119_170624_090.jpg
+  Timestamp: 36.72s
+  Confidence: 0.800
+  Blur Score: 116.62
+  Face Size: (np.int32(255), np.int32(255))
+
+File: Christian Hurtado_20251119_170624_091.jpg
+  Timestamp: 37.06s
+  Confidence: 0.800
+  Blur Score: 90.45
+  Face Size: (np.int32(264), np.int32(264))
+
+File: Christian Hurtado_20251119_170624_092.jpg
+  Timestamp: 37.39s
+  Confidence: 0.800
+  Blur Score: 92.99
+  Face Size: (np.int32(269), np.int32(269))
+
+File: Christian Hurtado_20251119_170624_093.jpg
+  Timestamp: 37.77s
+  Confidence: 0.800
+  Blur Score: 110.91
+  Face Size: (np.int32(268), np.int32(268))
+
+File: Christian Hurtado_20251119_170624_094.jpg
+  Timestamp: 38.07s
+  Confidence: 0.800
+  Blur Score: 105.26
+  Face Size: (np.int32(257), np.int32(257))
+
+File: Christian Hurtado_20251119_170624_095.jpg
+  Timestamp: 38.37s
+  Confidence: 0.800
+  Blur Score: 94.54
+  Face Size: (np.int32(270), np.int32(270))
+
+File: Christian Hurtado_20251119_170624_096.jpg
+  Timestamp: 38.70s
+  Confidence: 0.800
+  Blur Score: 97.36
+  Face Size: (np.int32(265), np.int32(265))
+
+File: Christian Hurtado_20251119_170624_097.jpg
+  Timestamp: 39.04s
+  Confidence: 0.800
+  Blur Score: 115.14
+  Face Size: (np.int32(258), np.int32(258))
+
+File: Christian Hurtado_20251119_170624_098.jpg
+  Timestamp: 39.37s
+  Confidence: 0.800
+  Blur Score: 84.40
+  Face Size: (np.int32(266), np.int32(266))
+
+File: Christian Hurtado_20251119_170624_099.jpg
+  Timestamp: 39.71s
+  Confidence: 0.800
+  Blur Score: 125.12
+  Face Size: (np.int32(280), np.int32(280))
+

@@ -1,0 +1,17 @@
+# Core dependencies for the facial recognition and voice assistant flows
+numpy==1.26.4
+opencv-python==4.11.0.86
+pandas==2.2.3
+scikit-learn==1.7.2
+tensorflow==2.20.0
+tensorflow-hub==0.12.0
+tensorflowjs==3.18.0
+matplotlib==3.10.1
+seaborn==0.13.2
+flask==3.0.3
+streamlit==1.46.1
+h5py==3.15.1
+pillow==11.2.1
+pyodbc==5.2.0
+requests==2.32.3
+scipy==1.15.3
